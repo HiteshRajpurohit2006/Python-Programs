@@ -1,12 +1,12 @@
-# 🏴‍☠️ Python Programs Collection
+# Python Programs Collection
 
-Three beginner Python programs with a One Piece twist.
+Three beginner Python programs with a twist.
 
 | File | What it does |
 |------|--------------|
 | `factorial.py` | Computes n! with input validation |
 | `fibonacci.py` | Generates the first N Fibonacci numbers |
-| `struct_to_dict.py` | Converts a `Pirate` dataclass (structure) and tuple pairs into dictionaries |
+| `struct_to_dict.py` | Converts a dataclass (structure) and tuple pairs into dictionaries |
 
 ## Run
 ```bash
@@ -16,4 +16,4 @@ python struct_to_dict.py
 ```
 Requires Python 3.10+.
 
-**Author:** Raghav Gattani
+**Author:** Hitesh
